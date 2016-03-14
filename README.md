@@ -3,6 +3,14 @@ Increase your emotional happiness through technology you already use
 
 Suppose you telephone a friend who fails to return your call after a reasonable time. You then feel depressed when you tell yourself that your friend probably got the message but wasn't interested enough to call you back. Your distortion? Mind reading. You then feel bitter, and decide not to call back and check this out because you say to yourself, "He'll think I'm being obnoxious if I call him back again. I'll only make a fool of myself.". Because of these negative predictions (the fortune teller error), you avoid your friend and feel put down. Three weeks later you learn that you friend never got your message. All that stewing, it rums out, was just a lot of self-imposed hokum.
 
+## My examples
+
+My father calls me during the week (in terms of frequency of calls he does it maybe once a month) and I don't hear the phone ringing. When I see he called me I assume something bad must have happened with my mother otherwise why would he call at this time. My error? Mind reading and catastrophizing. I start feeling anxious about what has happened and when he doesn't answer me back I feel like this is a confirmation that something bad has happened and it's just a matter of time before I find out some bad news and I will feel awful about it.
+
+I call a friend and he is in car. Due to network connection issues I cannot hear him anymore and the call is dropped. I then think whether the car crashed and something has happened with him.
+
+My sister fails to respond to a call when she is in another country and I assume something bad must have happened if she doesn't respond.
+
 ## Is this application appropriate for me?
 
 Did you ever feel queasy when one of your parents haven't responded to your calls?
