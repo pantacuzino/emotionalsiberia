@@ -49,11 +49,11 @@ In time you increase the toughness of the messages for example: They might not w
 
 #### Customer Hypothesis
 
-People who have had an anxious episode and have been at least one to a psychologist or psychiatrist
+People who've had an anxious episode and have been at least one time to a psychologist or psychiatrist
 
 #### Problem Hypothesis
 
-Don't know about thinking errors they make everyday and how they influence their life
+Don't know about thinking errors they make everyday and how to correct them to improve their emotional well-being
 
 #### Design Experiments
 
