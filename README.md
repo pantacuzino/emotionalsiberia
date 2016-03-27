@@ -57,9 +57,17 @@ Don't know about thinking errors they make everyday and how to correct them to i
 
 #### Design Experiments
 
-- people are able to identify cognitive distortions in their life
+- I am willing to accept mental health issues are solvable from within
+- I am willing to set aside time every day to work on my mental fitness
+- I understand that by working every day to improve mental fitness I improve my emotional well-being
+- I accept it takes time to change your mind and don't expect instant gratification
+- I am able to learn cognitive distortions related to my condition (anxiety or depression)
+- I am able to identify the cognitive distortions making a thought
+- I am able to identify that the thought is distorted
+- I am able to identify between subjectivity and objectivity
 - people are able to identify automatic thoughts
 - people are able to correct distorted thoughts
+- But because no shortage of adversity is ever likely to occur, to be successful in the long term such a thought-stopping strategy would require us to monitor ourselves continuously and indefinitely, a proposition far too exhausting for most of us.
 
 
 Impatience street, subway, impulsiveness
