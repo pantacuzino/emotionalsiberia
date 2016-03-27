@@ -46,3 +46,22 @@ In time you increase the toughness of the messages for example: They might not w
 ## Pricing
 
 2.99
+
+#### Customer Hypothesis
+
+People who have had an anxious episode and have been at least one to a psychologist or psychiatrist
+
+#### Problem Hypothesis
+
+Don't know about thinking errors they make everyday and how they influence their life
+
+#### Design Experiments
+
+- people are able to identify cognitive distortions in their life
+- people are able to identify automatic thoughts
+- people are able to correct distorted thoughts
+
+
+Impatience street, subway, impulsiveness
+
+Play FFIA 2016 to learn outside of your control
